@@ -1,0 +1,26 @@
+auto-update = off
+
+cursor-style = block
+cursor-style-blink = true
+
+window-padding-x = 10
+window-padding-y = 10
+window-decoration = false
+shell-integration = zsh
+font-size = 10
+
+theme = "catppuccin-mocha"
+
+font-family = "MesloLGS Nerd Font Mono"
+font-family-bold = "MesloLGS Nerd Font Mono Bold"
+font-family-italic = "MesloLGS Nerd Font Mono Italic"
+font-family-bold-italic = "MesloLGS Nerd Font Mono Bold Italic"
+
+gtk-titlebar = false
+
+###############
+## clipboard ##
+###############
+clipboard-read = "allow"
+clipboard-trim-trailing-spaces = true
+clipboard-write = "allow"
